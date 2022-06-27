@@ -7,16 +7,16 @@
 
 <h3>📚 <i>Conteúdo do Curso</i></h3>
 
-- [Rest Assured Básico]
-- [Validações]
-- [Trabalhando com XML]
-- [Organização]
-- [Verbos REST]
-- [Serialização]
-- [Formatos de comunicação]
-- [Arquivos]
-- [Validando esquema]
-- [Autenticações]
+- Rest Assured Básico
+- Validações
+- Trabalhando com XML
+- Organização
+- Verbos REST
+- Serialização
+- Formatos de comunicação
+- Arquivos
+- Validando esquema
+- Autenticações
 <br>
 <br>
 <br>
