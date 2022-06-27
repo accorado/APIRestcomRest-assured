@@ -1,4 +1,4 @@
-<p align="center"> ⚡ Testando API Rest com REST-assured, 2022.</p>
+<p align="center"> ⚡ Testando API Rest com REST- assured, 2022.</p>
 
 ![oie_9237236thcrTT7](https://user-images.githubusercontent.com/40298607/114955127-55cd3f80-9e32-11eb-8237-a91978a8a929.gif)
 
